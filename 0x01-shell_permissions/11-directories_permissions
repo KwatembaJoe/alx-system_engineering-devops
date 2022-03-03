@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 111 current_working_directory
